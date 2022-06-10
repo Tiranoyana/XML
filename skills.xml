@@ -1,0 +1,12 @@
+<root>
+    <terminalLinux>commands</terminalLinux>
+    <theory>testing documentation</theory>
+    <postman>autotests</postman>
+    <sniffing>charles</sniffing>
+    <devTools>google chrome</devTools>
+    <mobileTesting>android studio</mobileTesting>
+    <sql>commands</sql>
+    <js>autotests</js>
+    <python>creating a client server application</python>
+    <loadTesting>jmeter</loadTesting>
+</root>
