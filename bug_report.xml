@@ -1,1 +1,15 @@
-
+<root>
+    <id>01</id>
+    <summary>payment button is not clickable</summary>
+    <project>secret programm</project>
+    <version>007</version>
+    <severity>S1</severity>
+    <priority>P1</priority>
+    <status>new</status>
+    <author>Yana</author>
+    <assignedTo>developer №1</assignedTo>
+    <stepstoReproduce>click click click</stepstoReproduce>
+    <result>payment button is not clickable</result>
+    <expectedResult>payment button is clickable</expectedResult>
+    <attachment>screen.jpg</attachment>
+</root>
